@@ -4,7 +4,7 @@
   "description": "Teacher Workbench — a generic single-agent expert for university faculty: single-file PWA workbench covering teaching, meetings, research and admin + local Node bridge, pure-local offline by default, optional E2E-encrypted cloud sync.",
   "author": {
     "name": "Xing Bu",
-    "email": "buxing@gdufe.edu.cn"
+    "email": "Lucewalk@users.noreply.github.com"
   },
   "license": "MIT",
   "private": true,
