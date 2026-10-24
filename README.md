@@ -5,7 +5,7 @@
 > Teacher workbench — teaching, meetings, research and admin in one screen (offline-first)
 
 
-Part of the [Lucewalk Experts](https://github.com/Lucewalk/lucewalk-experts) collection.
+Part of the [Lucewalk Lumen](https://github.com/Lucewalk/lucewalk-lumen) collection.
 
 
 ## What it does
