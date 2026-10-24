@@ -5,6 +5,6 @@ Copyright © Xing Bu
 本专家包以 **MIT License** 授权发布，许可条款全文见同目录 `LICENSE`。
 在保留版权声明与许可声明的前提下，任何人可自由使用、复制、修改、合并、发布、分发、再许可及销售本包的副本。
 
-联系方式：Lucewalk@users.noreply.github.com
+联系方式：347014200+Lucewalk@users.noreply.github.com
 
 本专家包以「原样」提供，作者不对因使用本包所产生的任何后果承担责任。

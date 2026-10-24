@@ -18,5 +18,5 @@
 
 ## 版本与许可
 
-- 许可 MIT（见 `LICENSE`）　作者 Xing Bu <Lucewalk@users.noreply.github.com>
+- 许可 MIT（见 `LICENSE`）　作者 Xing Bu <347014200+Lucewalk@users.noreply.github.com>
 - 不含任何第三方代码 / 字体 / 图标库 / 运行时依赖，全部资产自研

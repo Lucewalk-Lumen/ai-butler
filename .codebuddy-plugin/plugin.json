@@ -4,7 +4,7 @@
   "description": "Teacher Workbench butler: opens the single-file local PWA workbench, reads its snapshot to brief todos, deadlines and weekly progress, and manages scheduled automations. Fully local by default — your data never leaves the device.",
   "author": {
     "name": "Xing Bu",
-    "email": "Lucewalk@users.noreply.github.com"
+    "email": "347014200+Lucewalk@users.noreply.github.com"
   },
   "agents": [
     "./agents/ai-butler.md"
