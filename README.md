@@ -5,7 +5,7 @@
 > Teacher Workbench butler: opens the single-file local PWA workbench, reads its snapshot to brief todos, deadlines and weekly progress, and manages scheduled automations. Fully local by default — your data never leaves the device.
 
 
-Part of the [WorkBuddy Experts](https://github.com/Lucewalk/WorkBuddy-Experts) collection — expert teams, agents and skills for the WorkBuddy AI assistant platform.
+Part of the [WorkBuddy Experts](https://github.com/Lucewalk/lucewalk-experts) collection — expert teams, agents and skills for the WorkBuddy AI assistant platform.
 
 
 ## What it does
